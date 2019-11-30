@@ -71,14 +71,10 @@ en:
     send: Send
 
 # Site links
-title: School of Data Switzerland
-url: "https://schoolofdata.ch"
-email: info@schoolofdata.ch
-forum: "https://forum.schoolofdata.ch"
-twitter: schoolofdata_ch
-calendar: https://forum.schoolofdata.ch/t/upcoming-events/40
-facebook: schoolofdata
-github: schoolofdata-ch
+title: Prototype Fund Switzerland
+url: "https://prototypefund.ch"
+email: info@prototypefund.ch
+twitter: prototypefund.ch
 grecaptcha:
   key: 6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ
 
